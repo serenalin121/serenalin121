@@ -7,4 +7,10 @@
 I am a full-stack developer.
   
 ## 🛠 Skills
-Javascript, HTML, CSS, React, Node.js, Python
+Javascript, HTML, CSS, Python
+
+## Tech Stack
+
+**Client:** React, Redux
+
+**Server:** Node, Express
